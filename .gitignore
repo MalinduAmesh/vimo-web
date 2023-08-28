@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.turbo/
+.vscode/
+yarn-error.log
+package-lock.json
+yarn.lock
+**/.DS_Store
+.idea
+onlyBackupParticipantView
+.env
+./example/.env
+./packages/components/.env
